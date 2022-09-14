@@ -6,8 +6,9 @@ Final Project of IBM_Data Analyst_Professional Certificate
  
 Syllabus:
 		
-	Step 1: Data Collection-Collecting Data Using APIs
+	Step 1: Data Collection
 	
+		-Collecting Data Using APIs
 		-Collecting Data Using Webscraping
 		-Exploring Data
 
