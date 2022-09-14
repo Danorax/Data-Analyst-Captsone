@@ -1,17 +1,18 @@
 # Data-Analyst-Captsone
 Final Project of IBM_Data Analyst_Professional Certificate
+
 Syllabus
-Module 1: Data Collection
+ Module 1: Data Collection
  
-Collecting Data Using APIs
+  Collecting Data Using APIs
 
-Collecting Data Using Webscraping
+  Collecting Data Using Webscraping
 
-Exploring Data
+  Exploring Data
 
-Module 2: Data Wrangling
+ Module 2: Data Wrangling
  
-Finding Missing Values
+  Finding Missing Values
 
 Determine Missing Values
 
