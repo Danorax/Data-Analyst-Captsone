@@ -2,47 +2,37 @@
 Final Project of IBM_Data Analyst_Professional Certificate
 
 Syllabus
- Module 1: Data Collection
+	Module 1: Data Collection
  
-  Collecting Data Using APIs
+		-Collecting Data Using APIs
+		-Collecting Data Using Webscraping
+		-Exploring Data
 
-  Collecting Data Using Webscraping
-
-  Exploring Data
-
- Module 2: Data Wrangling
+	Module 2: Data Wrangling
  
-  Finding Missing Values
+		-Finding Missing Values
+		-Determine Missing Values
+		-Finding Duplicates
+		-Removing Duplicates
+		-Normalizing Data
 
-Determine Missing Values
+	Module 3: Exploratory Data Analysis
+		-Distribution
+		-Outliers
+		-Correlation
 
-Finding Duplicates
+	Module 4: Data Visualization 
 
-Removing Duplicates
+		-Visualizing Distribution of Data
+		-Relationship
+		-Composition
+		-Comparison
 
-Normalizing Data
+	Module 5: Dashboard
 
-Module 3: Exploratory Data Analysis
-Distribution
+ 		-Creation
+		-Dashboards
 
-Outliers
+	Module 6: Presentation of Findings
 
-Correlation
-
-Module 4: Data Visualization
- 
-
-Visualizing Distribution of Data
-
-Relationship
-
-Composition
-
-Comparison
-
-Module 5: Dashboard
- Creation
-Dashboards
-
-Module 6: Presentation of Findings
-Final Presentation
+		-Final Presentation
